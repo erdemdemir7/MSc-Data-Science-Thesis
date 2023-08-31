@@ -1,0 +1,2 @@
+# MSc-Data-Science-Thesis
+Window_Based_Latent_Representations_for_Multivariate_Time_Series_Fault_Classification
